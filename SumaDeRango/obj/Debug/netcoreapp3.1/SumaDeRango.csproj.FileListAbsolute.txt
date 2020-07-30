@@ -1,0 +1,13 @@
+C:\Users\erpre\source\repos\SumaDeRango\SumaDeRango\bin\Debug\netcoreapp3.1\SumaDeRango.exe
+C:\Users\erpre\source\repos\SumaDeRango\SumaDeRango\bin\Debug\netcoreapp3.1\SumaDeRango.deps.json
+C:\Users\erpre\source\repos\SumaDeRango\SumaDeRango\bin\Debug\netcoreapp3.1\SumaDeRango.runtimeconfig.json
+C:\Users\erpre\source\repos\SumaDeRango\SumaDeRango\bin\Debug\netcoreapp3.1\SumaDeRango.runtimeconfig.dev.json
+C:\Users\erpre\source\repos\SumaDeRango\SumaDeRango\bin\Debug\netcoreapp3.1\SumaDeRango.dll
+C:\Users\erpre\source\repos\SumaDeRango\SumaDeRango\bin\Debug\netcoreapp3.1\SumaDeRango.pdb
+C:\Users\erpre\source\repos\SumaDeRango\SumaDeRango\obj\Debug\netcoreapp3.1\SumaDeRango.csprojAssemblyReference.cache
+C:\Users\erpre\source\repos\SumaDeRango\SumaDeRango\obj\Debug\netcoreapp3.1\SumaDeRango.AssemblyInfoInputs.cache
+C:\Users\erpre\source\repos\SumaDeRango\SumaDeRango\obj\Debug\netcoreapp3.1\SumaDeRango.AssemblyInfo.cs
+C:\Users\erpre\source\repos\SumaDeRango\SumaDeRango\obj\Debug\netcoreapp3.1\SumaDeRango.csproj.CoreCompileInputs.cache
+C:\Users\erpre\source\repos\SumaDeRango\SumaDeRango\obj\Debug\netcoreapp3.1\SumaDeRango.dll
+C:\Users\erpre\source\repos\SumaDeRango\SumaDeRango\obj\Debug\netcoreapp3.1\SumaDeRango.pdb
+C:\Users\erpre\source\repos\SumaDeRango\SumaDeRango\obj\Debug\netcoreapp3.1\SumaDeRango.genruntimeconfig.cache
